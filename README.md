@@ -1,2 +1,2 @@
-# rblandon.github.io
-Práctica curso MOOC . Ubuntu
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
